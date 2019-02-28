@@ -13,8 +13,8 @@ int main()
 	scanf("%d",&b);
 
 	
-	sub= a-b;
+{	sub= a-b;
 	printf("subtract is = %d\n", sub);
 
 	return 0;
-}
+}}
