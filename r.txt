@@ -2,14 +2,14 @@
 #include <stdio.h>
 int main()
 {
-    int firstNumber, secondNumber, sumOfTwoNumbers;
+    int f1, f2, sum;
         
 	    printf("Enter two integers: ");
-    scanf("%d %d", &firstNumber, &secondNumber);
+    scanf("%d %d", &f1, &f2);
 
-{    sumOfTwoNumbers = firstNumber + secondNumber;
+{    sum = f1 + f2;
 
-    printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
+    printf("%d + %d = %d", f1, f2, sum);
 
     return 0;
 }}

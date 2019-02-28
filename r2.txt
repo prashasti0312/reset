@@ -2,7 +2,7 @@
 
 int main()
 {
-	int a,b,sub;
+	int a,b,subtract;
 	
 
 	printf("Enter the first no.: ");
@@ -13,7 +13,7 @@ int main()
 	scanf("%d",&b);
 
 	
-{	sub= a-b;
+{	subtract= a-b;
 	printf("subtract is = %d\n", sub);
 
 	return 0;
